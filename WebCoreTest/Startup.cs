@@ -27,7 +27,7 @@ namespace WebCoreTest
 
             app.Run(async (context) =>
             {
-                await context.Response.WriteAsync("Hello lxz!");
+                await context.Response.WriteAsync("Hello cs!");
             });
         }
     }
